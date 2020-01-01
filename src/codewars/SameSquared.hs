@@ -1,3 +1,4 @@
+-- https://www.codewars.com/kata/550498447451fbbd7600041c
 module Codewars.Kata.Compare where
 
 import           Data.List (sort)
